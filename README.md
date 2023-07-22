@@ -1,6 +1,10 @@
-# Pagina Web
+### Pagina Web
 
 > Status: Em desenvolvimento
 
-## Projeto do Elas_na_Tech.com do curso de Desenvolvimento Web
+#### Projeto do Elas_na_Tech do curso de Desenvolvimento Web
+
+#### Tecnologias ultilizadas:
+* HTML5 
+* CSS3
 
